@@ -2,7 +2,7 @@
 
 This project demonstrates how to use SQLAlchemy with Python to create and manage a SQLite database.
 
-[Logo](https://github.com/TetianaBovanenko/SQLAlchemy_Project/blob/main/alchemy%20logo.jpg?raw=true)
+![Logo](https://github.com/TetianaBovanenko/SQLAlchemy_Project/blob/main/alchemy%20logo.jpg?raw=true)
 
 ## Features
 
